@@ -1,0 +1,3 @@
+- Hello, I’m François (@LolinEgle)
+- I’m currently learning C
+- You can reach my by email at francois-lolin@live.fr
