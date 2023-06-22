@@ -1,7 +1,7 @@
 # About Me
 ➡️ Hi, I’m François. I’m learning at 42 school.
 
-➡️ Right now I'm working on : https://github.com/LolinEagle/Inception
+➡️ Right now I'm working on : https://github.com/LolinEagle/ft_transcendence
 
 ➡️ You can ask me about anything.
 
@@ -11,8 +11,6 @@
 C, C++, Game development.
 
 ## Roadmap
-➡️ Finishing Inception.
-
-➡️ Start ft_transcendence.
+➡️ Finishing ft_transcendence.
 
 ### Have a great day and don't drink too much coffee.☕
