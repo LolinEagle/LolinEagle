@@ -1,12 +1,13 @@
-<h1 align="center">Hi, i'm François Russo</h1>
+<h1 align="center">François Russo</h1>
 
-<h3 align="center">Software Developer | Game Development Enthusiast | Student at 42 School</h3>
+<h3 align="left">Software Developer | Game Development Enthusiast | Student at 42 School</h3>
 
 I'm a passionate software developer from France, currently honing my skills at the 42 School. I specialize in software development with a focus on 3D applications and game development using Unity. Always open to learning new technologies and improving my craft, I love solving problems and turning ideas into reality.
 
 Feel free to reach out if you have any questions or would like to collaborate.
 
-- 📫 Email : francois-lolin@live.fr
+- Email : francois-lolin@live.fr
+- Linkedin : www.linkedin.com/in/fran%C3%A7ois-russo-942996303
 
 ## 🔧 Technologies & Tools :
 
